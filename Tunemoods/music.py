@@ -44,7 +44,7 @@ hands = mp.solutions.hands
 holis = holistic.Holistic()
 drawing = mp.solutions.drawing_utils
 
-st.title("EUPHORIA FM")
+st.title("Tunemoods")
 st.markdown("<p class='header'>#Music for every emotion</p>", unsafe_allow_html=True)
 
 
